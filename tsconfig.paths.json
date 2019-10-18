@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@img/*": ["src/assets/img/*"],
+      "@atom/*": ["src/components/atoms/*"],
+      "@molecule/*": ["src/components/molecules/*"],
+      "@organism/*": ["src/components/organisms/*"],
+      "@pages/*": ["src/components/pages/*"]
+    }
+  }
+}
